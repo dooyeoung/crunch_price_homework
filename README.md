@@ -29,3 +29,11 @@ https://github.com/dooyeoung/crunch_price_homework/blob/master/2.%20%EC%B9%B4%ED
 ### 이미지 분석
 상품명에 포함되지 않는 키워드를 찾기 위해 상품이미지를 google vision 서비스로 분석하여 누락된 키워드를 추출하였습니다.
 https://github.com/dooyeoung/crunch_price_homework/blob/master/4.%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%9D%BC%EB%B2%A8%20%EC%B6%94%EC%B6%9C.ipynb
+
+
+## 결론
+1. 크롤링한 카테고리정보를 바탕으로 올바른 카테고리를 설정
+2. 이미지 분석으로 얻은 키워드를 검색 키워드로 사용하기
+- 이부분은 정확도가 높지 않기 때문에 상품평, 카테고리와 연관성이 높은 키워드를 확률적 계산방법으로 선택해야 합니다
+
+위 두가지 방법으로 검색효율을 높일 수 있는 사전작업을 끝냈으므로 네이버쇼핑 검색에 사용되는 데이터베이스 필드에 추가하면 되리라 생각합니다.
