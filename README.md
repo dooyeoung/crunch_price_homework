@@ -24,6 +24,8 @@ http://www.crunchprice.com/goods/goods_view.php?goodsNo=1000284206
 1. 크롤링한 카테고리중 출현빈도가 높은 10개의 카테고리를 토큰으로 분리하여 출현빈도가 높은 3개를 키워드로 저장
 
 위의 과정을 통해 대부분 상품의 카테고리를 찾을 수 있었습니다.
+https://github.com/dooyeoung/crunch_price_homework/blob/master/2.%20%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb
 
 ### 이미지 분석
 상품명에 포함되지 않는 키워드를 찾기 위해 상품이미지를 google vision 서비스로 분석하여 누락된 키워드를 추출하였습니다.
+https://github.com/dooyeoung/crunch_price_homework/blob/master/4.%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%9D%BC%EB%B2%A8%20%EC%B6%94%EC%B6%9C.ipynb
